@@ -1,0 +1,5 @@
+REGISTRATION,MAKE,MODEL,COLOR,YEAR
+DN09 ABC: is not a valid car number.
+OY16UXD,Land Rover,Range Rover Evoque Se Ed4,Blue,2016
+PK12BWF,Mercedes-Benz,A160 Blueeff-Y Classic Se,Black,2012
+DN09HRM,BMW,320D Se,Black,2009
